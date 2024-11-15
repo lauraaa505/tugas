@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+
+th{
+    color: white;
+    
+}
+thead{
+    background-color: green;
+}
+.ikan{
+    display: flex;
+    justify-content: center;
+}
+table{
+    border: 0cm;
+}

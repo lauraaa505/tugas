@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    background-color: green;
+    color: white;
+    width: 500px;
+    margin: auto;
+}
+h4{
+    display: flex;
+    justify-content: center;
+}
+.ijo{
+    display: flex;
+    justify-content: center;
+}
+table{
+    border: 0cm;
+}
+th{
+    color: white;
+    background-color: green;
+    font-size: 15px;
+}
